@@ -9,7 +9,6 @@ class Horse:
     def run(self, dx):
         self.x_distance += dx
         
-
 class Eagle:
     def __init__(self):
         self.y_distance = 0
